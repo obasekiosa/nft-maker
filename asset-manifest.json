@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nft-maker/static/css/main.3b4b51c1.chunk.css",
+    "main.js": "/nft-maker/static/js/main.7c0c7f39.chunk.js",
+    "main.js.map": "/nft-maker/static/js/main.7c0c7f39.chunk.js.map",
+    "runtime-main.js": "/nft-maker/static/js/runtime-main.34341109.js",
+    "runtime-main.js.map": "/nft-maker/static/js/runtime-main.34341109.js.map",
+    "static/js/2.361ce792.chunk.js": "/nft-maker/static/js/2.361ce792.chunk.js",
+    "static/js/2.361ce792.chunk.js.map": "/nft-maker/static/js/2.361ce792.chunk.js.map",
+    "index.html": "/nft-maker/index.html",
+    "static/css/main.3b4b51c1.chunk.css.map": "/nft-maker/static/css/main.3b4b51c1.chunk.css.map",
+    "static/js/2.361ce792.chunk.js.LICENSE.txt": "/nft-maker/static/js/2.361ce792.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/nft-maker/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34341109.js",
+    "static/js/2.361ce792.chunk.js",
+    "static/css/main.3b4b51c1.chunk.css",
+    "static/js/main.7c0c7f39.chunk.js"
+  ]
+}
